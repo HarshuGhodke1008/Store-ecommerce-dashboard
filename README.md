@@ -1,17 +1,11 @@
 # 📊 Store Ecommerce Sales Dashboard
 
 ## Overview
-The **Store Ecommerce Sales Dashboard** provides insights into ecommerce sales, profit, and customer behavior.  
-It helps track performance across states, categories, customers, and payment modes with clear visualizations.
+The **Store Ecommerce Sales Dashboard** provides a comprehensive view of sales, profit, and customer insights across multiple dimensions. It is designed to help stakeholders quickly analyze performance metrics and identify trends in ecommerce operations.
 
 ---
 
-## 🖥️ Dashboard Preview
-![Store Ecommerce Sales Dashboard](Store-ecommerce-dashboard/STORE%20ECOMMERCE%20SALES%20DASHBOARD_page-0001.jpg)
-
----
-
-## 📌 Key Metrics
+## Key Metrics
 - **Total Sales Amount:** 438K  
 - **Total Profit:** 37K  
 - **Total Quantity Sold:** 5615  
@@ -19,30 +13,53 @@ It helps track performance across states, categories, customers, and payment mod
 
 ---
 
-## 📚 Project Learnings
-- Created interactive dashboard to track and analyze online sales data  
-- Used complex parameters to drill down in worksheets with filters and slicers  
-- Built connections, joins, and calculations to manipulate data and enable user-driven parameters  
-- Designed customized visualizations (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc.)
+## Dashboard Features
+
+### 1. Sales by Quarter
+- Tracks performance across Q1, Q2, Q3, and Q4.
+
+### 2. Sales by State
+- Maharashtra, Madhya Pradesh, Uttar Pradesh, and Delhi are highlighted with comparative sales amounts.
+
+### 3. Sales by Customer
+- Top customers include Harivansh, Madhav, Madan Mohan, Shiva, and Vishakha.
+
+### 4. Quantity by Category
+- Clothing: 63%  
+- Electronics: 21%  
+- Furniture: 17%
+
+### 5. Quantity by Payment Mode
+- COD: 44%  
+- UPI: 21%  
+- Debit Card: 13%  
+- Credit Card: 12%  
+- EMI: 10%
+
+### 6. Profit by Month
+- Monthly profit trends from January to December, including negative profit months.
+
+### 7. Profit by Sub-Category
+- Sub-categories include Printers, Bookcases, Saree, Accessories, and Tables.
 
 ---
 
-## 🚀 Tech Stack
+## Insights
+- **Clothing dominates sales quantity** (63%), indicating strong demand in this category.  
+- **Cash on Delivery (COD)** remains the most popular payment mode (44%).  
+- **Seasonal fluctuations in profit** are visible, with some months showing losses.  
+- **Regional sales concentration** is highest in Maharashtra.  
+
+---
+
+## Tech Stack
 - **Data Source:** Ecommerce sales records  
 - **Visualization Tool:** Dashboard (PDF export provided)  
 - **Languages/Frameworks:** Not applicable (data visualization only)
 
 ---
 
-## 🔮 Future Improvements
-- Add interactive dashboard version (Power BI / Tableau / Streamlit)  
-- Include year-over-year comparison  
-- Drill-down analysis for customer demographics  
-- Automate data refresh with live ecommerce data integration  
-
----
-
-## 👨‍💻 Author
-Developed by **Harsh Ghodke**  
-🎓 MCA Student at Modern College of Engineering, Pune  
-💻 Interests: Web Development, Cybersecurity, Data Visualization
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/store-ecommerce-dashboard.git
