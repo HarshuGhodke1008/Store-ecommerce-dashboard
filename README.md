@@ -1,7 +1,7 @@
 # 📊 Store Ecommerce Sales Dashboard
 ## 📸 Dashboard Preview
 
-[Store Ecommerce Sales Dashboard](Store-ecommerce-dashboard/)
+[Store Ecommerce Sales Dashboard](Store-ecommerce-dashboard/STORE ECOMMERCE SALES DASHBOARD_page-0001.jpg)
 ## Overview
 The **Store Ecommerce Sales Dashboard** provides a comprehensive view of sales, profit, and customer insights across multiple dimensions. It is designed to help stakeholders quickly analyze performance metrics and identify trends in ecommerce operations.
 
